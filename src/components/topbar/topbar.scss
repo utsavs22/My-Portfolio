@@ -60,8 +60,7 @@
         }
     }
     &.active{
-        // background-color: $mainColor;
-        background-color: green;
+        background-color: $mainColor;
         color: white;
         .hamburger{
             span{
