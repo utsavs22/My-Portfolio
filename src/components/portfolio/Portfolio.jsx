@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+//import { useEffect, useState } from "react";
+import { useState } from "react";
 import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss"
 
@@ -44,27 +45,27 @@ export default function Portfolio() {
       <div className="container">
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" width="100px" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
         <div className="item">
           <img src="https://i.redd.it/4rz9wpyvpbb31.jpg" width="100px" alt="" />
-          <h3>Banking App</h3>
+          <h3>Something</h3>
         </div>
       </div>
     </div>
